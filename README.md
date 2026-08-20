@@ -1,7 +1,3 @@
-# Schilder Amsterdam / Onderhoudsbedrijf Saad — Website Concept
+# Schilder Amsterdam / Onderhoudsbedrijf Saad website concept
 
-Independent website concept preview created for Schilder Amsterdam / Onderhoudsbedrijf Saad. This is not the business’s live website.
-
-## GitHub Pages
-
-After pushing this repository, open **Settings → Pages**, select **Deploy from a branch**, and choose **main / (root)**.
+Individually designed Dutch local-service website concept for **Schilder Amsterdam / Onderhoudsbedrijf Saad** in **Amsterdam**. The deployed demo is a concept only and uses no fabricated reviews, testimonials, operational promises, or unverified service details.
